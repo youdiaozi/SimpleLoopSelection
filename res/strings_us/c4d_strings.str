@@ -1,0 +1,29 @@
+STRINGTABLE
+{
+    // Control Strings - edge
+    IDS_SIMPLELOOPSELECTIONEDGE_TOOLTIP                 "Simple Loop Selection Edge Tooltip";
+    IDS_SIMPLELOOPSELECTIONEDGE_TIPS1                   "1.Select 2 Edges (Hold [Shift] to +/- edges)";
+    IDS_SIMPLELOOPSELECTIONEDGE_TIPS2                   "2.[Ctrl+up/down] to select the next edges";
+    IDS_SIMPLELOOPSELECTIONEDGE_TIPS3                   "3.[Ctrl+left/right] to make a loop selection";
+    IDS_SIMPLELOOPSELECTIONEDGE_TIPS4                   "4.[Ctrl+L] to make a full loop in the other direction";
+                                                        
+    IDS_SIMPLELOOPSELECTIONEDGE_OP                      "OP: #";
+    IDS_SIMPLELOOPSELECTIONEDGE_ORIGINEDGEINDICES       "OriginEdgeIndices: #";
+    IDS_SIMPLELOOPSELECTIONEDGE_SELECTEDEDGEINDICES     "SelectedEdgeIndices: #";
+                                                        
+    // Menu Strings - edge                                  
+    IDS_SIMPLELOOPSELECTIONEDGE_MENU1                   "Menu 1"; // #，&c&，\u000A
+    IDS_SIMPLELOOPSELECTIONEDGE_MENU2                   "Menu 2";    
+    IDS_SIMPLELOOPSELECTIONEDGE_MENU3                   "Menu 3";
+        IDS_SIMPLELOOPSELECTIONEDGE_SUBMENU1            "Submenu 1";
+        IDS_SIMPLELOOPSELECTIONEDGE_SUBMENU2            "Submenu 2";
+        IDS_SIMPLELOOPSELECTIONEDGE_SUBMENU3            "Submenu3";
+    IDS_SIMPLELOOPSELECTIONEDGE_MENU4                   "Menu 4";
+    
+    // Control Strings - poly
+    IDS_SIMPLELOOPSELECTIONPOLYGON_TOOLTIP                 "Simple Loop Selection Polygon Tooltip";
+    IDS_SIMPLELOOPSELECTIONPOLYGON_TIPS1                   "1.Select 2 Polygons (Hold [Shift] to +/- polygons)";
+    IDS_SIMPLELOOPSELECTIONPOLYGON_TIPS2                   "2.[Ctrl+up/down] to select the next polygons";
+    IDS_SIMPLELOOPSELECTIONPOLYGON_TIPS3                   "3.[Ctrl+left/right] to make a loop selection";
+    IDS_SIMPLELOOPSELECTIONPOLYGON_TIPS4                   "4.[Ctrl+L] to make a full loop in the other direction";
+}
